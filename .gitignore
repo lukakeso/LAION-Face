@@ -1,0 +1,4 @@
+laion_face_data/**
+laion_face_meta/**
+laion400m-meta/**
+laion_face_ids.pth
